@@ -1,11 +1,3 @@
-/////////////////////////////////////////////////////////////////
-/*
-  ESP32 + UWB | Indoor Positioning + Unity Visualization
-  For More Information: https://youtu.be/c8Pn7lS5Ppg
-  Created by Eric N. (ThatProject)
-*/
-/////////////////////////////////////////////////////////////////
-
 #include <SPI.h>
 #include "DW1000Ranging.h"
 
